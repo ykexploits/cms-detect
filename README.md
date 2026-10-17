@@ -11,3 +11,6 @@ magento
 drupal
 joomla
 etc.
+CMDS
+BASIC python3 cms_detect.py https://example.com
+crawler python3 cms_detect.py https://example.com --crawl

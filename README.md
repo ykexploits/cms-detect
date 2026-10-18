@@ -7,7 +7,7 @@ though it may occasionally produce incorrect results.
 ykexploits
 detect 15 cms
 wordpress
-magento
+magento.
 drupal
 joomla
 etc.
